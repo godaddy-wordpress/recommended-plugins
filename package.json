@@ -1,0 +1,11 @@
+{
+  "name": "godaddy-recommended-plugins",
+  "repository": "godaddy-wordpress/recommended-plugins",
+  "scripts": {
+    "preinstall": "cp pre-commit .git/hooks/pre-commit",
+    "build": "npx uglifyjs recommended-plugins.json --output=recommended-plugins.min.json"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.7.1"
+  }
+}
