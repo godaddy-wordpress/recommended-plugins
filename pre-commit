@@ -1,1 +1,2 @@
-npm run build
+jq -c . < recommended-plugins.json > recommended-plugins.min.json
+echo -e "\n\033[0;32mrecommended-plugins.json minified to recommended-plugins.min.json\033[0m\n"
