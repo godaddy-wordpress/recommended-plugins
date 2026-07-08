@@ -1,4 +1,26 @@
 [
+  "woocommerce",
+  "wpforms-lite",
+  "google-site-kit",
+  "wordpress-seo",
+  "wp-mail-smtp",
+  "advanced-custom-fields",
+  "designsetgo",
+  "redirection",
+  "wp-smushit",
+  "cookie-law-info",
+  "custom-post-type-ui",
+  "polylang",
+  "the-events-calendar",
   "coblocks",
-  "woocommerce"
+  "woocommerce-pdf-invoices-packing-slips",
+  "ti-woocommerce-wishlist",
+  "ameliabooking",
+  "site-reviews",
+  "woocommerce-customizer",
+  "accessibility-checker",
+  "woocommerce-sequential-order-numbers",
+  "woocommerce-product-sku-generator",
+  "checkoutwc-lite",
+  "sellbrite"
 ]
